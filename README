@@ -1,0 +1,18 @@
+botIrcNs2
+#########
+
+Presentation
+############
+
+Permet de gérer un serveur NS2 (Natural Selection 2) à distance avec l'aide d'un Bot IRC en Python pour envoyer les commandes depuis un canal IRC.
+
+How To Use
+##########
+
+/!\ Remember to change theses values at the beginning of each script
+ip = ""
+port = ""
+username = ""
+password = ""
+
+python ns2classic.py
